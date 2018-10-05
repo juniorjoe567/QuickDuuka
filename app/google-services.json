@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "985478998629",
+    "firebase_url": "https://quick-duuka.firebaseio.com",
+    "project_id": "quick-duuka",
+    "storage_bucket": "quick-duuka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985478998629:android:73d3f9663341349a",
+        "android_client_info": {
+          "package_name": "com.mcdenny.quickduuka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985478998629-sqq2k5hcm7p4mps92po0bcvbo1tqjbkd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mcdenny.quickduuka",
+            "certificate_hash": "9dc46b84b6c2309c7725a2d95e2aef9d237689af"
+          }
+        },
+        {
+          "client_id": "985478998629-38mtq80haedn38mg44jpiip6qd2bvc8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9fUJwkKrZhb7nb3PmNIBQUQP1ZCjUvog"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985478998629-38mtq80haedn38mg44jpiip6qd2bvc8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
